@@ -2,6 +2,7 @@
     "name": "sergiors/recaptcha-service-provider",
     "description": "ReCaptcha for Silex",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Sérgio Rafael Siqueira",
